@@ -1,4 +1,4 @@
-- 🔭 I’m currently working a Ecommerce Application
+- 🔭 I’m currently working on an Ecommerce Application
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate Instagram
 - 🤔 I’m looking for help with Django Rest frameworks
