@@ -1,8 +1,7 @@
 <b>Hola, I'm Salah Abdul Gafoor !</b>
 - 🔭 I’m currently working on an Ecommerce Application
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate Instagram
-- 🤔 I’m looking for help with Django Rest frameworks
+- 👯 I’m looking for any collaborations
 - 💬 Ask me about Django or any other programming related stuff
 - 📫 How to reach me: Gmail at salahgafoor@gmail.com
 - 😄 Pronouns: He/His
